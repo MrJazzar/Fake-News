@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+nltk
+gensim
+xgboost
+matplotlib
+seaborn
+wordcloud
+tensorflow
+keras
+tqdm
+regex
